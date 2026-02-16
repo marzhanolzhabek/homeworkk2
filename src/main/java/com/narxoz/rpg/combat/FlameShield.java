@@ -8,7 +8,7 @@ public class FlameShield implements Ability {
 
     @Override
     public int getDamage() {
-        return 0; // Defensive ability
+        return 0; 
     }
 
     @Override
