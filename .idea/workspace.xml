@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02267765-bf3b-462a-8374-0395d9864f54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/builder/BasicEnemyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/builder/BossEnemyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/builder/EnemyBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/builder/EnemyDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/Ability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/Fireball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/FlameShield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/FrostBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/ShadowStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/combat/Vanish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/enemy/DragonBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/enemy/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/enemy/Goblin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/factory/EnemyComponentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/factory/FireComponentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/factory/IceComponentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/factory/ShadowComponentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/loot/FireLootTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/loot/IceLootTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/loot/LootTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/loot/ShadowLootTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/narxoz/rpg/prototype/EnemyRegistry.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marzhanolzhabek/homeworkk2.git",
+    "accountId": "a4998a60-d33c-46ba-9bfc-2a6565d84f99"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="39kW3rNrsu15zenMrFU7FN8suyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin1/IdeaProjects/homeworkk2",
+    "onboarding.tips.debug.path": "C:/Users/Admin1/IdeaProjects/homeworkk2/src/main/java/com/narxoz/rpg/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02267765-bf3b-462a-8374-0395d9864f54" name="Changes" comment="" />
+      <created>1771240352706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771240352706</updated>
+    </task>
+    <servers />
+  </component>
+</project>
