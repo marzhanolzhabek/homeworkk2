@@ -8,7 +8,7 @@ public class Vanish implements Ability {
 
     @Override
     public int getDamage() {
-        return 0; // Utility ability
+        return 0;
     }
 
     @Override
