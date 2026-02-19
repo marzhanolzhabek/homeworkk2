@@ -12,4 +12,6 @@ public interface EnemyBuilder {
     EnemyBuilder setElement(String element);
     EnemyBuilder setComponents(EnemyComponentFactory factory);
     Enemy build();
+
+    BossEnemyBuilder setPhaseCount(int i);
 }
